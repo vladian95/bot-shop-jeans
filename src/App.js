@@ -7,11 +7,11 @@ import ProductList from './components/ProductList/ProductList';
 import './App.css';
 
 function App() {
-  const { onToggleButton, tg } = useTelegram();
+  // const { onToggleButton, tg } = useTelegram();
 
-  useEffect(() => {
-    tg.ready();
-  }, []);
+  // useEffect(() => {
+  //   tg.ready();
+  // }, []);
 
   return (
     <div className="App">
