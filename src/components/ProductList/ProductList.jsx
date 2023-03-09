@@ -2,7 +2,7 @@ import React from 'react';
 import './ProductList.css';
 
 const ProductList = () => {
-  return <div>product list</div>;
+  return <div>product listasdasdasd</div>;
 };
 
 export default ProductList;
